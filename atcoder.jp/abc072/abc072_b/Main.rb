@@ -1,0 +1,1 @@
+puts gets.chomp.chars.select.with_index{|i,idx|idx.even?}.join
