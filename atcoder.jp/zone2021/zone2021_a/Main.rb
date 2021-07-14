@@ -1,0 +1,1 @@
+p gets.chop.scan('ZONe').size
