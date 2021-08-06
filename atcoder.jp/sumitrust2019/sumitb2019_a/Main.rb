@@ -1,0 +1,1 @@
+p $<.map{_1.split[0].to_i}.inject(:-).abs
