@@ -1,0 +1,1 @@
+puts %w|Balanced Left Right|[gets.split.map(&:to_i).each_slice(2).map{_1+_2}.inject(:<=>)]
