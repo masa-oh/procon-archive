@@ -1,0 +1,1 @@
+puts [*1..9].product([*1..9]).map{|i,j|i*j}.include?(gets.to_i) ? :Yes : :No
