@@ -1,0 +1,1 @@
+puts (gets.chomp*2)[1,3]
