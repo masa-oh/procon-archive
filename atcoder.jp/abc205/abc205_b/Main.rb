@@ -1,0 +1,1 @@
+puts [*1..gets.to_i]==$<.read.split.map(&:to_i).sort ? :Yes : :No
