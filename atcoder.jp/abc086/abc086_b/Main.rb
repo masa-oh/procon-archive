@@ -1,0 +1,1 @@
+puts Integer.sqrt(n=(gets.split*'').to_i)**2==n ? :Yes : :No
