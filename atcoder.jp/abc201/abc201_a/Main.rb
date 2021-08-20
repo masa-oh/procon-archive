@@ -1,0 +1,1 @@
+puts gets.split.map(&:to_i).sort.then{_3-_2==_2-_1 ? :Yes : :No}
