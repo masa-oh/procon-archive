@@ -1,0 +1,1 @@
+gets.split.map(&:to_i).then{puts _2%_1==0 ? :Yes : :No}
