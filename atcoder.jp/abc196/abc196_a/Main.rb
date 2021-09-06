@@ -1,0 +1,1 @@
+p $<.read.split.map(&:to_i).then{_2-_3}
