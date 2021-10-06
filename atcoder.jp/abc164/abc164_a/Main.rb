@@ -1,0 +1,1 @@
+gets.split.map(&:to_i).then{puts _1>_2 ? :safe : :unsafe}
