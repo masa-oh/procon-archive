@@ -1,0 +1,12 @@
+{
+	"id": 27201610,
+	"epoch_second": 1636776387,
+	"problem_id": "future_contest_2022_qual_a",
+	"contest_id": "future-contest-2022-qual",
+	"user_id": "m_asa_o",
+	"language": "Ruby (2.7.1)",
+	"point": 4960790,
+	"length": 1589,
+	"result": "AC",
+	"execution_time": 182
+}
