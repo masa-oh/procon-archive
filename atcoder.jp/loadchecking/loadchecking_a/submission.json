@@ -1,0 +1,12 @@
+{
+	"id": 29294928,
+	"epoch_second": 1644749669,
+	"problem_id": "loadchecking_a",
+	"contest_id": "loadchecking",
+	"user_id": "m_asa_o",
+	"language": "Ruby (2.7.1)",
+	"point": 1000,
+	"length": 92,
+	"result": "AC",
+	"execution_time": 57
+}
