@@ -1,0 +1,12 @@
+{
+	"id": 29777774,
+	"epoch_second": 1646060004,
+	"problem_id": "math_and_algorithm_y",
+	"contest_id": "math-and-algorithm",
+	"user_id": "m_asa_o",
+	"language": "Ruby (2.7.1)",
+	"point": 1000,
+	"length": 61,
+	"result": "AC",
+	"execution_time": 140
+}
