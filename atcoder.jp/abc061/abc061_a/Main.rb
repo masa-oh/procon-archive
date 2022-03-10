@@ -1,0 +1,1 @@
+puts gets.split.map(&:to_i).then{|a,b,c|c.between?(a,b)} ? :Yes : :No
