@@ -1,0 +1,1 @@
+$><<(gets=~/[aiueo]/ ? :vowel : :consonant)
