@@ -1,0 +1,1 @@
+puts gets=~/^(eraser?|dream(er)?)*$/ ? :YES : :NO
