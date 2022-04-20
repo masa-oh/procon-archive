@@ -1,0 +1,1 @@
+p gets.chomp.gsub(/B+/,?B).gsub(/W+/,?W).size-1
