@@ -1,0 +1,1 @@
+puts [*?a..?z][gets.to_i-97]
