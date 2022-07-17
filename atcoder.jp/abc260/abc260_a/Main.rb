@@ -1,0 +1,1 @@
+puts gets.chomp.chars.tally.find{|k,v|v==1}&.at(0)||-1
