@@ -1,0 +1,12 @@
+{
+	"id": 38773715,
+	"epoch_second": 1676102790,
+	"problem_id": "tessoku_book_ce",
+	"contest_id": "tessoku-book",
+	"user_id": "m_asa_o",
+	"language": "Ruby (2.7.1)",
+	"point": 1000,
+	"length": 199,
+	"result": "AC",
+	"execution_time": 202
+}
